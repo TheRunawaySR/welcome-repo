@@ -1,0 +1,10 @@
+white^longHair^Lex
+white^shortHair^Chin
+black^shortHair^Lingo
+black^shortHair^Cleo
+black^shortHair^Rasta
+orange^longHair^Garfield
+black^longHair^Allex
+orange^shortHair^Splittens
+orange^longHair^Sam
+white^shortHair^Princess
