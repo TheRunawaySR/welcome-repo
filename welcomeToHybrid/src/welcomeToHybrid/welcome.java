@@ -19,7 +19,7 @@ public class welcome {
 		ArrayList<ArrayList<String>> organizedArray = new ArrayList<ArrayList<String>>(); 
 		
 		//Find file and location
-		File file = new File("C:\\Users\\J-Dogg-PC\\eclipse-workspace\\welcomeToHybrid\\welcome.txt");
+		File file = new File("C:\\Users\\J-Dogg-PC\\git\\repository\\welcomeToHybrid\\welcome.txt");
 		
 		//Prepare to break down text file into arraylist (requires try/catch)
 		try {
